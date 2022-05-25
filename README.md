@@ -1,5 +1,5 @@
 ### Hi，这里是肥羊 👋
-- 🚀 I use daily:
+🚀 I use daily:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
