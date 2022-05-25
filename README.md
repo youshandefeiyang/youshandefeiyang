@@ -27,7 +27,7 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, ouuan here! :wave:
+## Hey,这里是肥羊! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
