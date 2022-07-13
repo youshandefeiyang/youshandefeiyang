@@ -1,2 +1,2 @@
-![Feiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=youshandefeiyang&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youshandefeiyang&layout=compact&hide=css,scss,html,Dockerfile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Feiyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=youshandefeiyang&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youshandefeiyang&layout=compact&hide=css,scss,html,Dockerfile&langs_count=8&show_icons=true&theme=tokyonight)
