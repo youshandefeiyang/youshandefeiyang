@@ -3,10 +3,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youshandefeiyang&layout=compact&hide=css,scss,html,Dockerfile&langs_count=8&show_icons=true&theme=radical)
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### Used Languages and Tools
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
